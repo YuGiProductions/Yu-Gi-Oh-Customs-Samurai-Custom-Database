@@ -87,9 +87,9 @@ Attribute: TRAP
 Type: [Trap/Counter]
 
 Card Text: When your opponent activates a Spell/Trap Card or effect: Banish the top 2 cards of your Deck facedown; negate
-           the activation, and if you do, banish that card. During your Main Phase: You can return this banished card to
-           the GY; negate the effects of all monsters currently on the field until the End Phase. You can only use each
-           effect of "Banished Enchantment, Nullification" once per turn.
+           the activation, and if you do, banish that card. You can only use this effect of "Banished Enchantment, Nullification"
+           once per turn. During your Main Phase: You can return this banished card to the GY; negate the effects of all monsters
+           currently on the field until the End Phase.
            
 Card ID: 03218908
 --]]
